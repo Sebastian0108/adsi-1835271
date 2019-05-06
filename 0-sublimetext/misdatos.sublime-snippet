@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+hola,mi nombre es ${1:sebastian} soy estudiante de ${2:ADSI} en el  ${3:Centro de procesos industriales},regional ${4:caldas} con ID de grupo numero ${5:1835271}.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>misdatos</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
